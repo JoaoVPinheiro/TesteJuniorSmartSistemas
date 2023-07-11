@@ -4,4 +4,5 @@
 
 #Para iniciar o Projeto.
 Para a utilização dos recursos do Slim Framework é necessário executar o comando "composer install" utilizando o terminal na pasta do Projeto.
+
 Alterar o arquivo "env.exemplo.php" para "env.php" e preenche-lo com as informações a serem utilizadas.
